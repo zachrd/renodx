@@ -42,3 +42,5 @@ bin/**
 **/.vshistory/
 .cache/**
 .env
+decompile_script.bat
+decompile_all_dxvk_ps_5_0.bat
